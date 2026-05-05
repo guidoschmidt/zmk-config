@@ -17,9 +17,9 @@
 // ------------------------------------------------------------------------------------------------------------
 // |  ESC  |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   `   |
 // |  TAB  |  Ü  |  ,  |  .   |  P   |  Y   |                   |  F   |  G    |  C    |  T   |   Z   |   ß   |
-// |  CTRL |  A  |  O  |  E   |  I   |  U   |                   |  H   |  D    |  R    |  N   |   L   |   -   |
-// | SHIFT |  Ö  |  Q  |  J   |  K   |  X   |    B   |  |   M   |  V   |  '    |  '    |  .   |   /   | SHIFT |
-//                     | ALT  | GUI  | LOWER|  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
+// |  CTRL |  -  |  A  |  O   |  E   |  I   |                   |  D   |  R    |  N    |  S   |   L   |   -   |
+// | SHIFT |  Ö  |  Q  |  J   |  K   |  X   |    U   |  |   H   |  B   |  M    |  W    |  V   |   #   | SHIFT |
+//                     | ALT  | GUI  | LGUI |  SPACE |  | ENTER | RAISE| BSPC  | GUI   |
             bindings = <
 &kp ESC   &kp N1 &kp N2 &kp N3   &kp N4   &kp N5                     &kp N6 &kp N7   &kp N8    &kp N9  &kp N0   &kp GRAVE
 &kp TAB   &kp Q  &kp W  &kp E    &kp R    &kp T                      &kp Y  &kp U    &kp I     &kp O   &kp P    &kp MINUS
